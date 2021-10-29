@@ -1,0 +1,44 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 20px;
+}
+
+ul{
+
+    float: right;
+    margin-right: 200px;
+    padding-left: 100px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 200px;
+
+}
+li{
+    list-style: none;
+    margin: 10px 0;
+    margin-left: 100px;
+   
+}
+.home{
+    margin-right: 100px;
+}
+.offers{
+    margin-right: 100px;
+}
+.contact{
+    margin-right: 100px;
+}
+strong{
+    position: relative;
+    top: -20px;
+    font-size: 50px;
+    font-family: 'Festive', cursive;
+font-family: 'Source Serif Pro', serif;
+}
+button{
+    background-color: orange;
+}
+.big-burger{
+    float: right;
+    height: 500px;
+}
