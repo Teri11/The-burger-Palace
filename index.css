@@ -54,6 +54,7 @@ button{
 }
 p{
     color:gray;
+    font-family: ;
 }
 
 .seek{
@@ -115,5 +116,10 @@ p{
 
 }
 .dd{
+    height: 500px;
+}
+.apps{
+    color: black;
+    background-color: yellow;
     height: 500px;
 }
