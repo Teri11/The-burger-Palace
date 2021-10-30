@@ -1,9 +1,10 @@
 body{
     font-family: 'Poppins', sans-serif;
     margin: 20px;
+     background: #fefefe;
 }
 
-ul{
+.navbar-items{
 
     float: right;
     margin-right: 200px;
@@ -11,17 +12,18 @@ ul{
     display: flex;
     justify-content: space-between;
     margin-left: 200px;
+    list-style: none;
 
 }
 li{
-    list-style: none;
     margin: 10px 0;
     margin-left: 100px;
-   
+   list-style: none;
 }
 .home{
     margin-right: 100px;
     text-decoration: underline brown 5px ;
+    
     
 }
 .offers{
@@ -29,7 +31,8 @@ li{
 }
 .contact{
     margin-right: 100px;
-}
+    
+} 
 strong{
     position: relative;
     top: -20px;
@@ -54,35 +57,24 @@ button{
 }
 p{
     color:gray;
-    font-family: ;
+    
 }
 
 .seek{
     display: flex;
-     align-items: center;
+     
      color: brown;
+    
 }
 .card {
     /* Add shadows to create the "card" effect */
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
     transition: 0.3s;
-    height: 450px;
-    margin: 20px;
+    height: 500px;
+    margin: 10px;
     border-radius: 25px;
-    padding: 30px;
-}
-.cards{
-
- box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-    transition: 0.3s;
-    height: 450px;
-    margin: 20px;
-    border-radius: 25px;
-    padding: 30px;
-}
-
-.cards{
-    align-items: center;
+    background-color:rgb(255,255,255) ;
+    
 }
 .small-burger{
     width: 500px;
@@ -99,13 +91,20 @@ p{
     margin: 20px;
     border-radius: 25px;
     padding: 30px;
-    width: 300px;
+    width: 500px;
+    margin-top: 20px;
+    /* margin-bottom: 20px; */
+    margin-left: 20px;
+    padding-bottom: 150px;
+
 }   
 .tall{
  display:flex;
  color: brown;
- 
-
+ /* margin: 100px; */
+ background-color:rgb(247,253,246) ;
+ padding: 100px 100px 100px 100px;
+ height: 500px;
 }
 .dd{
     height: 500px;
@@ -115,9 +114,76 @@ p{
 }
 .apps{
     color: black;
-    background-color: orange;
+    background-color: #f6b400;
     height: 500px;
+
     padding: 100px;
     
     
 }
+.top-icon{
+    margin-top: 0%;
+}
+.food-dish{
+    display: block;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 2000px;
+   
+
+}
+.box2{
+    box-shadow: 0 -1px 4px 0 purple;
+    transition: 0.3s;
+    height: 200px;
+    margin: 20px;
+    border-radius: 25px;
+    padding: 100px;
+    width: 300px;
+    /* margin-top: 20px; */
+    /* margin-bottom: 20px; */
+    }
+h1{
+    align-items: center;
+}
+.dots{
+    display: flex;
+    padding: 200px;
+    margin-right: 10px;
+}
+.orange-dot{
+    /* border: 2px solid red; */
+ width: 10px;
+ border-radius: 50%;
+ height: 10px;
+ background:rgb(241,107,48);
+
+}
+.grey-dot{
+    width: 10px;
+ border-radius: 50%;
+ height: 10px;
+ background:rgb(196,196,196);
+
+}
+.final{
+    font-size: 20px;
+}
+.end{
+    height: 400px;
+    text-align: center;
+}
+    
+.pics{
+    display: flex;
+    
+
+}
+.begin{
+    height: 500px;
+}
+.container{
+    text-align: center;
+}
+
