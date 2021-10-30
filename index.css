@@ -104,16 +104,20 @@ p{
 .tall{
  display:flex;
  color: brown;
+ 
 
 }
 .dd{
     height: 500px;
     align-items: left;
     padding: 10px;
+    
 }
 .apps{
     color: black;
-    background-color: yellow;
+    background-color: orange;
     height: 500px;
     padding: 100px;
+    
+    
 }
