@@ -21,6 +21,8 @@ li{
 }
 .home{
     margin-right: 100px;
+    text-decoration: underline brown 5px;
+    
 }
 .offers{
     margin-right: 100px;
@@ -76,7 +78,7 @@ p{
     border-radius: 25px;
     padding: 30px;
 }
-}
+
 .cards{
     align-items: center;
 }
@@ -88,6 +90,30 @@ p{
     text-align: center;
 
 }
+.box{
+    box-shadow: 0 -1px 4px 0 purple;
+    transition: 0.3s;
+    height: 200px;
+    margin: 20px;
+    border-radius: 25px;
+    padding: 30px;
+    width: 300px;
+}
+.box{
     
+    box-shadow: 0 -1px 4px 0 purple;
+    transition: 0.3s;
+    height: 200px;
+    margin: 20px;
+    border-radius: 25px;
+    padding: 30px;
+    width: 300px;
+}
+    
+.tall{
+ display:flex;
 
-    
+}
+.dd{
+    height: 500px;
+}
