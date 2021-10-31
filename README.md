@@ -6,10 +6,7 @@ By Kubai Augustine Mweteri
 ## Description
 This website entails all the good service my favourite burger palace can offer .Serving the greatest burgers on the planet.This site helps new customer who are interested to know how burgers tatses like can get a taste for their first favourite meals.
 ## Setup/Installation Requirements
-1)Install the Visual studio code
-2)Git clone the repository
-3)Make sure the live server extension is installed
-4)Click on Go live
+1)Install the Visual studio code<br>2)Git clone the repository<br>3)Make sure the live server extension is installed<br>4)Click on Go live
 
 ## Todo list
 1)Design<br>2)Execute for business.
