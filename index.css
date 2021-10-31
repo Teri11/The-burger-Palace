@@ -237,9 +237,10 @@ background-image: linear-gradient(132deg, #ffffff 50%, #f6b400 0%);
     display: flex;
     justify-content: flex-end; 
     flex-direction: column;
-    /* float: right; */
+    float: right;
     /* margin: 0 auto; */
     text-align: right;
+    position: relative;
     
     
 }
@@ -249,9 +250,6 @@ background-image: linear-gradient(132deg, #ffffff 50%, #f6b400 0%);
 .footer{
     display: flex;
     justify-content: space-between;
-}
-.image2{
-    display: ;
 }
 
 
