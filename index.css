@@ -183,12 +183,12 @@ p{
     font-size: 20px;
 }
 .end{
-    /* height: 100px; */
+    height: 400px;
     /* text-align: center; */
-    display: flex;
-    justify-content: space-between; 
+    /* display: flex; */
+    /* justify-content: space-between;  */
     /* flex-direction: row; */
-    margin: 50px;    
+    /* margin: 50px;     */
 }
 
 .pics{
@@ -224,13 +224,16 @@ p{
     margin: 0 auto;
 }
 .Email{
-    display: flex;
-    justify-content: flex-end; 
-    flex-direction: column;
+    /* display: flex; */
+    /* justify-content: flex-end;  */
+    /* flex-direction: column; */
     float: right;
     /* margin: 0 auto; */
-    text-align: right;
+    /* text-align: right; */
     position: relative;
+    top: -145px;
+     
+
     
     
 }
@@ -241,6 +244,10 @@ p{
     display: flex;
     justify-content: space-between;
 }
+.image2{
+    height: 80px;
+}
+
 
 
 
