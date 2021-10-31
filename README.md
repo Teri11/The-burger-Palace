@@ -1,4 +1,4 @@
-The Burger Palace
+## The Burger Palace
 A website about the best burger palace to visit which is paving the Way For Delicious Burgers to exist,31/10/2021
 By Kubai Augustine Mweteri
 
